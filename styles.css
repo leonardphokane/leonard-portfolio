@@ -766,3 +766,6 @@ footer {
   margin: 0 auto; /* center the badge */
 }
 
+[data-aos] {
+  transition-duration: 1.2s;
+}

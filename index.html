@@ -7,6 +7,8 @@
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" />
     <link rel="stylesheet" href="styles.css">
     <script defer src="scripts.js"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 </head>
 <body>
     <header>
@@ -24,27 +26,31 @@
   
 
     <section id="hero" data-aos="zoom-in">
-        <div id="particles-js"></div>
-        <div class="hero-text" data-aos="zoom-in">
-            <h1>WELCOME TO MY PORTFOLIO</h1>
-            
-            <p data-aos="zoom-in">Hello, I’m Leonard — a Tech Founder, Freelance Full‑Stack Developer, and Ethical AI Technologist with 10+ years of experience building scalable web and MERN Stack applications using technologies like Python, React, Node.js, and MongoDB.</p>
-        </div>
-    </section>
-
-   <section id="about" data-aos="zoom-in">
-    <h2>About Me</h2>
-    <div class="about-content" data-aos="zoom-in">
-        <div class="about-image" data-aos="zoom-in" >
-            <img src="assets/leonard.png" alt="Leonard Phokane" class="profile-img" />
-        </div>
-        <div class="about-text" data-aos="zoom-in">
-            <p>I lead UbuntuFlow Tech Labs, a modular platform focused on clarity and storytelling. With certifications from Oracle, Microsoft Azure, and the Otermans Institute, I specialize in cloud‑native architecture, ethical AI, and CI/CD pipelines. My work blends Afro‑futurist storytelling with a mission to build platforms that uplift Africa’s tech ecosystem and leave a lasting impact.
-
-I am passionate about ethical AI, user‑centered design, and creating digital experiences that drive meaningful change.</p>
-        </div>
-    </div>
+  <div id="particles-js"></div>
+  <div class="hero-text" data-aos="zoom-in">
+    <h1>WELCOME TO MY PORTFOLIO</h1>
+    <p data-aos="fade-up" data-aos-delay="400">
+      Hi, I’m Leonard — a Tech Founder, Freelance Full‑Stack Developer, and Ethical AI Technologist with 10+ years of experience building scalable web and MERN Stack applications using technologies like Python, React, Node.js, and MongoDB.
+    </p>
+  </div>
 </section>
+
+<section id="about" data-aos="zoom-in" data-aos-duration="1200">
+  <h2 data-aos="fade-up">About Me</h2>
+  <div class="about-content" data-aos="fade-up" data-aos-delay="200">
+    <div class="about-image" data-aos="zoom-in" data-aos-delay="300">
+      <img src="assets/leonard.png" alt="Leonard Phokane" class="profile-img" />
+    </div>
+    <div class="about-text" data-aos="fade-up" data-aos-delay="400">
+      <p>
+        I lead UbuntuFlow Tech Labs, a modular platform focused on clarity and storytelling. With certifications from Oracle, Microsoft Azure, and the Otermans Institute, I specialize in cloud‑native architecture, ethical AI, and CI/CD pipelines. My work blends Afro‑futurist storytelling with a mission to build platforms that uplift Africa’s tech ecosystem and leave a lasting impact.
+        <br><br>
+        I am passionate about ethical AI, user‑centered design, and creating digital experiences that drive meaningful change.
+      </p>
+    </div>
+  </div>
+</section>
+
 
     <section id="projects" data-aos="zoom-in" data-aos="fade-up" data-aos-delay="100">
         <h2>My Projects</h2>
@@ -415,14 +421,15 @@ Designed for seamless communication, scalable architecture, and Afrocentric stor
     <footer>
         <p>Copyright &copy; 2026 Leonard Phokane | All rights reserved. </p>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-    <script>
-    AOS.init({
-      duration: 1000,
-      easing: "ease-in-out",
-      once: true
-    });
-  </script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1200,   // animation duration in ms
+    once: true,       // whether animation should happen only once
+    easing: 'ease-in-out', // smooth easing
+  });
+</script>
+
 </body>
 </html>
 

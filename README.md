@@ -1,7 +1,28 @@
-# Leonard Phokane – Web Developer Portfolio
 
-Welcome to my personal portfolio repository.  
+# 👋 Welcome to My GitHub Profile
+
 This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter Developer, and Ethical AI Technologist**, blending **cloud‑native architecture, recruiter‑ready design, and Afro‑futurist storytelling**.
+
+
+## 🌐 View Live Demo
+
+👉 [Click here to view the live portfolio](https://leonardphokane.github.io/leonard-portfolio/)
+
+
+---
+## 🌌 The Arabic Journey
+![The Arabic Journey](The-Arabic-Journey-ArtWork-scaled.jpg)
+
+
+> *"When I'm gone, let my functions speak."*
+
+---
+
+## 🧑‍💻 Who I Am
+I’m **Leonard Phokane** — Tech Founder of **UbuntuFlow Tech Labs**, Freelance Full‑Stack & Flutter Developer, and Oracle/Microsoft Certified AI Associate.  
+My academic journey spans **UNISA (BSc IT)**, **Power Learn Project Africa**, and certifications across **Oracle, Microsoft Azure, IBM, NVIDIA, and Otermans Institute**.  
+
+
 
 ---
 
@@ -18,10 +39,6 @@ This project showcases my journey as a **Tech Founder, Full‑Stack & Flutter De
   - C#, Python, Java, HTML, CSS, JavaScript, TypeScript  
   - React, Flutter, Firebase, FastAPI  
   - MongoDB, Azure, AWS, Docker  
-
-- **Frameworks & Tools**  
-  - Visual Studio, Android Studio, GitHub, Canva  
-  - CI/CD pipelines with Docker, Jenkins, and cloud platforms (AWS, Azure, Oracle Cloud)
 
 ---
 
@@ -49,12 +66,18 @@ git clone https://github.com/leonardphokane/My_Portfolio.git
 cd My_Portfolio
 open index.html
 
-
+```
 ---
 
-📬 Contact
-Email: leonardphokane1@gmail.com
+## 📬 Contact Me
 
-WhatsApp: +27 72 350 7514
+📧 Email: [leonardphokane1@gmail.com](mailto:leonardphokane1@gmail.com)  
 
-LinkedIn: https://www.linkedin.com/in/leonard-phokane/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiHqrm%2FaVQG62CpIdCOEsug%3D%3D
+🌐 Portfolio: [Live Portfolio](https://leonardphokane.github.io/leonardphokane-portfolio/)  
+
+💼 LinkedIn: [linkedin.com/in/leonardphokane](https://linkedin.com/in/leonard-phokane)  
+
+🐙 GitHub: [github.com/leonardphokane](https://github.com/leonardphokane)
+
+🏅 Credly: [credly.com/users/leonard-phokane](https://www.credly.com/users/leonard-phokane)
+
