@@ -81,3 +81,7 @@ open index.html
 
 🏅 Credly: [credly.com/users/leonard-phokane](https://www.credly.com/users/leonard-phokane)
 
+---
+
+> Built with legacy in mind. Powered by Ubuntu. Driven by impact.
+
